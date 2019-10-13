@@ -11,8 +11,8 @@
 	<groupId>com.pradeep.spring.di</groupId>
 	<artifactId>dependency-injection-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>dependency-injection-app</name>
-	<description>Spring boot dependency injection test app</description>
+	<name>spring-di</name>
+	<description>Spring boot dependency injection get started app</description>
 
 	<properties>
 		<java.version>1.8</java.version>
